@@ -21,3 +21,5 @@ Users can ask questions about AI concepts, and the chatbot will provide insightf
 - **Transformers**: To manage the language models used for generating responses.
 - **Langchain**: For managing the retrieval and generation of answers.
 - **ChromaDB**: For efficient data storage and retrieval.
+
+![Example](https://github.com/Risper8/YOURAI_RAGCHAT/blob/main/Screenshot%20(180).png)
