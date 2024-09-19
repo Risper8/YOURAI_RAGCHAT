@@ -14,6 +14,8 @@ Users can ask questions about AI concepts, and the chatbot will provide insightf
 
 - **User-Friendly Interface**: A clean and intuitive chat interface allows users to easily ask questions and receive responses.
 
+## Data
+For this project I used the book Artificial Intelligence: A Modern Approach Third Edition by Stuart J. Russell and Peter Norvig
 
 ## Technologies Used
 
@@ -22,4 +24,4 @@ Users can ask questions about AI concepts, and the chatbot will provide insightf
 - **Langchain**: For managing the retrieval and generation of answers.
 - **ChromaDB**: For efficient data storage and retrieval.
 
-![Example](https://github.com/Risper8/YOURAI_RAGCHAT/blob/main/Screenshot%20(180).png)
+![Example 1](https://github.com/Risper8/YOURAI_RAGCHAT/blob/main/Screenshot%20(180).png)
