@@ -1,15 +1,23 @@
-# Your AI Chat RAGAPP
+# Your AI Chat
 
 ## Overview
 
-**Your AI Chat RAGAPP** is an AI-powered chatbot application designed to provide intelligent responses to user queries in the AI field. 
-This app leverages advanced language models and a robust retrieval-based architecture to deliver accurate and contextual answers. 
-It combines text generation and retrieval capabilities to ensure users receive relevant information in a conversational format.
+**Your AI Chat** is a Retrieval-Augmented Generation (RAG) application designed to help learners understand artificial intelligence (AI) in depth. 
+
+Users can ask questions about AI concepts, and the chatbot will provide insightful answers based on the context and information available.
 
 ## Features
 
-- **AI-Powered Chatbot**: Interact with an AI model trained to provide insightful responses based on your questions.
-- **Customizable Interaction**: Adjust parameters such as maximum tokens, temperature, and nucleus sampling directly from the interface.
-- **Contextual Responses**: Retrieve relevant information from a vector store to enhance the accuracy of responses.
-- **User-Friendly Interface**: Engage with the chatbot through an intuitive web interface built with Gradio.
+- **Interactive Chatbot**: Engage with an AI-powered chatbot that can answer a wide range of questions related to AI.
+  
+- **Contextual Responses**: The chatbot leverages a retrieval mechanism to provide accurate answers based on the information stored in its knowledge base.
 
+- **User-Friendly Interface**: A clean and intuitive chat interface allows users to easily ask questions and receive responses.
+
+
+## Technologies Used
+
+- **Gradio**: For building the user interface.
+- **Transformers**: To manage the language models used for generating responses.
+- **Langchain**: For managing the retrieval and generation of answers.
+- **ChromaDB**: For efficient data storage and retrieval.
