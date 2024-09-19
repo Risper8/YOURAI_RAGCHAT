@@ -15,7 +15,8 @@ Users can ask questions about AI concepts, and the chatbot will provide insightf
 - **User-Friendly Interface**: A clean and intuitive chat interface allows users to easily ask questions and receive responses.
 
 ## Data
-For this project I used the book Artificial Intelligence: A Modern Approach Third Edition by Stuart J. Russell and Peter Norvig
+
+This project utilizes content from the book **Artificial Intelligence: A Modern Approach, Third Edition** by Stuart J. Russell and Peter Norvig.
 
 ## Technologies Used
 
